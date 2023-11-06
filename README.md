@@ -2,9 +2,7 @@
 #==-ROC/FRB PYTHON PROGRAM DEFINITION-==========================================
 #/home/pmccrone/python/src/runrpg
 # NAME:
-# :::::::::::::::::::::::::::::::::::::::::::::::
 # Py_nexrad_runrpg__v4.py 
-# :::::::::::::::::::::::::::::::::::::::::::::::
 #  PROGRAM OVERVIEW:
 #       (0) The PYTHON CODE reads case information from an FRB google sheet.
 #       (1) The information is used to run NEXRAD RPG cases for further post analysis.
